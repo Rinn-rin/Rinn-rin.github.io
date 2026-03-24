@@ -1,6 +1,6 @@
 # Rinn-rin
 ## Hi, I'm Arina! 👋
-![](https://media.tenor.com/QJU7AAAG91QAAAAm/aesthetic-pink.webp)![](https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/c892db4277275dd7ebf1677e4fd0b4f1669254fb1f3e55a7d36105fc5e5ced82.webp)![](https://media.tenor.com/CH1ovwJgA1oAAAAi/petegim.gif)  
+![](https://media.tenor.com/QJU7AAAG91QAAAAm/aesthetic-pink.webp)![](https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/c892db4277275dd7ebf1677e4fd0b4f1669254fb1f3e55a7d36105fc5e5ced82.webp)
 I'm a first-year student studying **Information Systems and Technologies**.  
 I'm 18 years old and I'm actively diving into the world of development.
 ## 🛠️ Current tech stack
